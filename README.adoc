@@ -1,0 +1,5 @@
+= Antora Component: Writing
+// :idprefix:
+// :idseparator: -
+
+This Antora component contains topics about fiction and non-fiction writing.

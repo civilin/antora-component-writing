@@ -1,0 +1,9 @@
+= About Writing
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+This page, (index.adoc in ROOT > pages) is the root page of the Writing component.
