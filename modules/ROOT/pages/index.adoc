@@ -6,4 +6,4 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This page, (index.adoc in ROOT > pages) is the root page of the Writing component.
+This page, (index.adoc in ROOT > pages) is the root page of the Writing component. Test.
