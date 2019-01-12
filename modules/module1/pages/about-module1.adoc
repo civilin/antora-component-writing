@@ -7,5 +7,3 @@ endif::[]
 :idseparator: -
 
 This is the *About Module 1* landing page, in the Writing component.
-
-Hello, Jackson!
