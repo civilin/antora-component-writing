@@ -8,4 +8,4 @@ endif::[]
 
 This is the *About Module 1* landing page, in the Writing component.
 
-make a small change to test something
+Let's make a small change to test something.
